@@ -1,0 +1,8 @@
+/* MyComponent.css */
+.container {
+  border: 2px solid black;
+  padding: 1rem;
+}
+.highlight {
+  color: green;
+}
